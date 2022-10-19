@@ -13,6 +13,7 @@ setTimeout(SplashScreen.hideAsync, 5000);
 // THIS APP.JS WITHIN 01-IMAGESHARE HAS NOW GITHUBBED A THIRD TIME! 19/10/2022
 //CHANGE THE OTHER WAY 19/10/2022
 //AND BACK AGAIN 19/10/2022 ONE LAST TIME FROM THE ONLINE EDITOR IN GITHUB AND BACK FROM VSC
+// githubbed to new repository name 04-GitHub Repository 01-ImageShare
 
 
 //earlier default code
