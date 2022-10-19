@@ -14,6 +14,7 @@ setTimeout(SplashScreen.hideAsync, 5000);
 //CHANGE THE OTHER WAY 19/10/2022
 //AND BACK AGAIN 19/10/2022 ONE LAST TIME FROM THE ONLINE EDITOR IN GITHUB AND BACK FROM VSC
 // githubbed to new repository name 04-GitHub Repository 01-ImageShare
+// and back again
 
 
 //earlier default code
