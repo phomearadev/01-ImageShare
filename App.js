@@ -9,6 +9,7 @@ SplashScreen.preventAutoHideAsync();
 setTimeout(SplashScreen.hideAsync, 5000);
 
 // THIS APP.JS WITHIN 01-IMAGESHARE HAS NOW BEEN GITHUBBED! 19/10/2022
+// THIS APP.JS WITHIN 01-IMAGESHARE HAS NOW GITHUBBED A SECOND TIME! 19/10/2022
 //earlier default code
 //<Image source={{ uri: 'https://i.imgur.com/TkIrScD.png' }} style={styles.logo} />
 
