@@ -8,7 +8,7 @@ import * as SplashScreen from 'expo-splash-screen';
 SplashScreen.preventAutoHideAsync();
 setTimeout(SplashScreen.hideAsync, 5000);
 
-
+// THIS APP.JS WITHIN 01-IMAGESHARE HAS BEEN GITHUBBED! 19/10/2022
 //earlier default code
 //<Image source={{ uri: 'https://i.imgur.com/TkIrScD.png' }} style={styles.logo} />
 
